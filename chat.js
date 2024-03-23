@@ -24,6 +24,10 @@ const chat = () => {
       role: "system",
       content: "Hi you're awesome, please be a personal development coach",
     },
+    {
+      role: "user",
+      content: "give me the books to be 1% of 1%",
+    },
   ];
 
   const start = () => {
